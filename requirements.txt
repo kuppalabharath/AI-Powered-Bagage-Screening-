@@ -1,0 +1,6 @@
+ultralytics==8.3.2  # Supports YOLOv11 for object detection
+opencv-python==4.9.0.80  # For image processing
+streamlit==1.32.0  # For real-time interface
+gtts==2.5.1  # For audio alerts
+numpy==1.26.4  # For array operations
+
